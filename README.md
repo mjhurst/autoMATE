@@ -1,2 +1,2 @@
 # autoMATE
-first GitHub repository
+# Hello Mate! Welcome to autoMATE! autoMATE is an easy and friendly tool resource. The automated tools in here that I have created are easy to read and execute. So far I have a strong password generator that allows you to save the password to a text document. (I would not share that document with others). The next tool I have is a password verifier. This allows you to check to see if your password is strong compared to the parameters set and provides corrections. The third tool verifies user's credentials. If the user is not on the list then they will not be granted access. 
